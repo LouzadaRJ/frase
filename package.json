@@ -1,0 +1,16 @@
+{
+  "name": "frase",
+  "version": "1.0.0",
+  "description": "aplicação que sorteia uma frase para começar o seu dia!",
+  "type": "module",
+  "main": "frase-do-dia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

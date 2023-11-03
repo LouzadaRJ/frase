@@ -1,0 +1,1 @@
+aplicação que sorteia uma frase para começar o seu dia!
